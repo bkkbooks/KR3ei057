@@ -1,0 +1,554 @@
+canonical_identifier: bkk:krp/KR3ei057/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ei057/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 產寶
+  identifiers:
+    krp: KR3ei057
+  tags:
+    kr-categories: KR3ei
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ei057.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ei057_000-jc.yaml, hash: 'sha256:fd03d3dc30f588327dc835154e4df588e968bb964089716f885e2cd06edbdb3e'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ei057_000-jc.markers.yaml, hash: 'sha256:d1317c45f6bfd242454969f7a1cc9248fabd53b08d573fdaf5ff34823f89b141'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ei057_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 528
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei057_jc_000-d3.h1s1
+    span:
+    - front
+    - 528
+    - 872
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei057_jc_000-d4.h1s1
+    span:
+    - front
+    - 872
+    - 1236
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei057_jc_000-d5.h1s1
+    span:
+    - front
+    - 1236
+    - 1543
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei057_jc_000-d6.h1s1
+    span:
+    - body
+    - 0
+    - 938
+  label: 產後總論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei057_jc_000-d6d4
+    span:
+    - body
+    - 617
+    - 938
+  label: 生化湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei057_jc_000-d7.h1s1
+    span:
+    - body
+    - 938
+    - 1167
+  label: 胞衣不下
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei057_jc_000-d8.h1s1
+    span:
+    - body
+    - 1167
+    - 1681
+  label: 塊痛
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei057_jc_000-d9.h1s1
+    span:
+    - body
+    - 1681
+    - 2598
+  label: 血崩血暈
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei057_jc_000-d9d4
+    span:
+    - body
+    - 1938
+    - 2132
+  label: 生化奪命湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei057_jc_000-d9d5
+    span:
+    - body
+    - 2132
+    - 2551
+  label: 滋榮益氣湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei057_jc_000-d9d6
+    span:
+    - body
+    - 2551
+    - 2598
+  label: 延胡索散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei057_jc_000-d10.h1s1
+    span:
+    - body
+    - 2598
+    - 2875
+  label: 手足厥冷
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei057_jc_000-d10d4
+    span:
+    - body
+    - 2847
+    - 2875
+  label: 生脈散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei057_jc_000-d11.h1s1
+    span:
+    - body
+    - 2875
+    - 3389
+  label: 類傷寒
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei057_jc_000-d11d4
+    span:
+    - body
+    - 3038
+    - 3260
+  label: 生化湯量加法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei057_jc_000-d11d5
+    span:
+    - body
+    - 3260
+    - 3389
+  label: 養正通幽湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei057_jc_000-d12.h1s1
+    span:
+    - body
+    - 3389
+    - 3574
+  label: 類中風
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei057_jc_000-d12d4
+    span:
+    - body
+    - 3450
+    - 3574
+  label: 滋榮活絡湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei057_jc_000-d13.h1s1
+    span:
+    - body
+    - 3574
+    - 3754
+  label: 類瘧
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei057_jc_000-d13d4
+    span:
+    - body
+    - 3657
+    - 3716
+  label: 人參養胃湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei057_jc_000-d13d5
+    span:
+    - body
+    - 3716
+    - 3754
+  label: 參朮膏
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei057_jc_000-d14.h1s1
+    span:
+    - body
+    - 3754
+    - 4025
+  label: 妄言妄見
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei057_jc_000-d14d4
+    span:
+    - body
+    - 3847
+    - 3905
+  label: 生化安神湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei057_jc_000-d14d5
+    span:
+    - body
+    - 3905
+    - 4025
+  label: 生化補元湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei057_jc_000-d15.h1s1
+    span:
+    - body
+    - 4025
+    - 4184
+  label: 氣短
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei057_jc_000-d15d4
+    span:
+    - body
+    - 4068
+    - 4184
+  label: 生化益氣湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei057_jc_000-d16.h1s1
+    span:
+    - body
+    - 4184
+    - 4340
+  label: 發喘
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei057_jc_000-d16d4
+    span:
+    - body
+    - 4332
+    - 4340
+  label: 生化益氣湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei057_jc_000-d17.h1s1
+    span:
+    - body
+    - 4340
+    - 4383
+  label: 咳嗽
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei057_jc_000-d18.h1s1
+    span:
+    - body
+    - 4383
+    - 4612
+  label: 自汗
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei057_jc_000-d18d4
+    span:
+    - body
+    - 4512
+    - 4612
+  label: 調胃參耆湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei057_jc_000-d19.h1s1
+    span:
+    - body
+    - 4612
+    - 4717
+  label: 盜汗
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei057_jc_000-d19d4
+    span:
+    - body
+    - 4659
+    - 4717
+  label: 牡蠣散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei057_jc_000-d20.h1s1
+    span:
+    - body
+    - 4717
+    - 4793
+  label: 大便不通
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei057_jc_000-d20d4
+    span:
+    - body
+    - 4783
+    - 4793
+  label: 養正通幽湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei057_jc_000-d21.h1s1
+    span:
+    - body
+    - 4793
+    - 4891
+  label: 小便不通
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei057_jc_000-d21d4
+    span:
+    - body
+    - 4835
+    - 4891
+  label: 益氣生脈湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei057_jc_000-d22.h1s1
+    span:
+    - body
+    - 4891
+    - 5147
+  label: 嘔吐不納穀
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei057_jc_000-d22d4
+    span:
+    - body
+    - 4999
+    - 5044
+  label: 安胃行血湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei057_jc_000-d22d5
+    span:
+    - body
+    - 5044
+    - 5100
+  label: 加減六和湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei057_jc_000-d22d6
+    span:
+    - body
+    - 5100
+    - 5147
+  label: 補中調胃湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei057_jc_000-d23.h1s1
+    span:
+    - body
+    - 5147
+    - 5273
+  label: 傷食
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei057_jc_000-d24.h1s1
+    span:
+    - body
+    - 5273
+    - 5517
+  label: 膨脹
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei057_jc_000-d24d4
+    span:
+    - body
+    - 5386
+    - 5517
+  label: 養生化滯湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei057_jc_000-d25.h1s1
+    span:
+    - body
+    - 5517
+    - 5960
+  label: 泄瀉
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei057_jc_000-d25d4
+    span:
+    - body
+    - 5700
+    - 5781
+  label: 訶皮生化湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei057_jc_000-d25d5
+    span:
+    - body
+    - 5781
+    - 5861
+  label: 參苓生化湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei057_jc_000-d25d6
+    span:
+    - body
+    - 5861
+    - 5960
+  label: 加味生化湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei057_jc_000-d26.h1s1
+    span:
+    - body
+    - 5960
+    - 6173
+  label: 痢疾
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei057_jc_000-d26d4
+    span:
+    - body
+    - 6112
+    - 6173
+  label: 香連生化湯
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei057_jc_000-d27.h1s1
+    span:
+    - body
+    - 6173
+    - 6254
+  label: 煩悶
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei057_jc_000-d28.h1s1
+    span:
+    - body
+    - 6254
+    - 6553
+  label: 產後調護法
+  type: section
+  level: 1
+hash: sha256:b89d0b84461ce41878c3948067fa9e92840c9a3fed5975eff6fd9cb95df9d087
