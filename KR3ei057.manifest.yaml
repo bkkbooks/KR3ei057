@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ei057/v1
 canonical_location: https://kanripo.org/bkk/KR3ei057/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 產寶
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ei057_000.yaml, hash: 'sha256:fd03d3dc30f588327dc835154e4df588e968bb964089716f885e2cd06edbdb3e'}
+  - {seq: 0, filename: KR3ei057_000.yaml, hash: 'sha256:c95b06151063ea5aefdae15db9c3b565f467cfb298af5ff873aadffa07f1c59c'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ei057_000.markers.yaml, hash: 'sha256:3a822b0a86fbc3a5375f6088f90eb6ca4f206433e65307f6d9175cf4506cd7a4'}
+  - {seq: 0, role: markers, filename: assets/KR3ei057_000.markers.yaml, hash: 'sha256:56593b93b3a65ba84635bdd89e13401efe120e4e03fbcd85eaefcfd6606ffd89'}
 table_of_contents:
 - ref:
     seq: 0
@@ -551,4 +551,7 @@ table_of_contents:
   label: 產後調護法
   type: section
   level: 1
-hash: sha256:94a6e998a1ae90f4a4a21b46db50ea4bee954ed893e4b7cb2a149f11c655ded7
+hash: sha256:ec2bcc79c2b9a73f5c19a7c85cf6e024a2e7a197d2a98eec16f62b4a01d5bd6e
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
