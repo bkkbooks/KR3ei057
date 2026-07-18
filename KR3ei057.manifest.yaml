@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ei057_000.yaml, hash: 'sha256:c95b06151063ea5aefdae15db9c3b565f467cfb298af5ff873aadffa07f1c59c'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ei057_000.markers.yaml, hash: 'sha256:56593b93b3a65ba84635bdd89e13401efe120e4e03fbcd85eaefcfd6606ffd89'}
+  - {seq: 0, role: markers, filename: assets/KR3ei057_000.markers.yaml, hash: 'sha256:ef5e94860b33348a53aa8bd9824d3b5ddfb2dce64239bd9033178db51316a25b'}
 table_of_contents:
 - ref:
     seq: 0
@@ -551,7 +551,7 @@ table_of_contents:
   label: 產後調護法
   type: section
   level: 1
-hash: sha256:ec2bcc79c2b9a73f5c19a7c85cf6e024a2e7a197d2a98eec16f62b4a01d5bd6e
+hash: sha256:0ae49483730e75bc97ba891928ff2dce98f9d0e405125af9a98658726c781db2
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
